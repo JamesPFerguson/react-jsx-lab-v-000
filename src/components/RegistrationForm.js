@@ -1,3 +1,3 @@
-class RegistrationForm extends Rach.Component {
-  
+class RegistrationForm extends React.Component {
+
 }
